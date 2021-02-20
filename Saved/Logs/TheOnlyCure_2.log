@@ -923,3 +923,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.20-17.37.03:319][926]LogSavePackage: Moving '../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Saved/Site-8775FB20D14720C4C3198F96BB76653243.tmp' to '../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Content/Maps/Site-87.umap'
 [2021.02.20-17.37.03:374][926]AssetCheck: New page: Asset Save: Site-87
 [2021.02.20-17.37.03:374][926]LogContentValidation: Display: Validating World /Game/Maps/Site-87.Site-87
+[2021.02.20-17.37.38:872][113]LogSlate: Took 0.002446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.20-17.38.04:164][142]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.20-17.38.04:164][142]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.20-17.39.05:513][144]BlueprintLog: New page: Compile BP_Player
+[2021.02.20-17.39.05:595][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.02.20-17.39.32:192][668]BlueprintLog: New page: Compile BP_Player
+[2021.02.20-17.39.32:263][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.02.20-17.39.35:457][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BP_Player" FILE="../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Content/Assets/BP_Player.uasset" SILENT=true
+[2021.02.20-17.39.35:489][782]LogSavePackage: Moving '../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Saved/BP_PlayerCD2002B042F10F0855A5FE91093B3A36.tmp' to '../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Content/Assets/BP_Player.uasset'
+[2021.02.20-17.39.35:509][782]AssetCheck: New page: Asset Save: BP_Player
+[2021.02.20-17.39.35:509][782]LogContentValidation: Display: Validating Blueprint /Game/Assets/BP_Player.BP_Player

@@ -913,3 +913,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.20-17.18.15:214][433]LogSavePackage: Moving '../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Saved/BP_Player87253A7F44284C9A6584C180259B0373.tmp' to '../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Content/Assets/BP_Player.uasset'
 [2021.02.20-17.18.15:239][433]AssetCheck: New page: Asset Save: BP_Player
 [2021.02.20-17.18.15:240][433]LogContentValidation: Display: Validating Blueprint /Game/Assets/BP_Player.BP_Player
+[2021.02.20-17.20.44:574][889]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.20-17.20.44:574][889]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.20-17.36.59:061][801]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.20-17.36.59:061][801]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.20-17.37.01:335][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.02.20-17.37.03:138][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Site-87" FILE="../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Content/Maps/Site-87.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.20-17.37.03:196][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.02.20-17.37.03:319][926]LogSavePackage: Moving '../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Saved/Site-8775FB20D14720C4C3198F96BB76653243.tmp' to '../../../../../Users/ADMIN/Desktop/ProjectsUE4/TheOnlyCure/Content/Maps/Site-87.umap'
+[2021.02.20-17.37.03:374][926]AssetCheck: New page: Asset Save: Site-87
+[2021.02.20-17.37.03:374][926]LogContentValidation: Display: Validating World /Game/Maps/Site-87.Site-87

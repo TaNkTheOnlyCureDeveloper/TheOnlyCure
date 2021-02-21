@@ -1,4 +1,9 @@
 
-Saved/Logs/TheOnlyCure_2.log
-*.log
-Intermediate/Config/CoalescedSourceConfigs/Input.ini
+Saved/
+/Saved
+/DerivedDataCache
+DerivedDataCache/
+/Intermediate
+Intermediate/
+/Saved
+Saved/
